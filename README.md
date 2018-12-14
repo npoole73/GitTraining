@@ -1,2 +1,0 @@
-# GitTraining
-Git Essential Training
